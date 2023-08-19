@@ -11,6 +11,7 @@ A classic Breakout game implemented in Python using the Turtle graphics library.
 
 ## How to Play
 
+- Press **'Return'** to start the game.
 - Use the **Left** and **Right** arrow keys to move the paddle.
 - Press **'p'** to pause and resume the game.
 - Press **'Space'** to restart the game after game over.
